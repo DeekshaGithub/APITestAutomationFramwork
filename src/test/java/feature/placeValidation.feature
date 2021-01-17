@@ -11,7 +11,7 @@ Scenario Outline: Verify if place is being successfully added using AddPlaceAPI
 	
 	Examples:
 	|name		  | language|address		   |
-	|deeksha House| English |Nehru Park Morena | 
+#	|deeksha House| English |Nehru Park Morena | 
 #	|Cuttooo House| French 	|Gandhi Colony Morena | 
 
 
